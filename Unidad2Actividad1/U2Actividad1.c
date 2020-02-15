@@ -47,7 +47,7 @@ void menu(){
     do{
 
         printf("\n\nBienvenido al programa que agrega nombres propios a una pila.");
-        printf("\n Por favor ingrese una opcion:");
+        printf("\n Por favor seleccione una opcion:");
         printf("\n 1. Extraer un nombre de la pila.");
         printf("\n 2. Insertar cuatro nombres.");
         printf("\n 3. Extraer 2 nombres de la pila.");
